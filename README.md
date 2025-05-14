@@ -18,4 +18,12 @@ Here are some ideas to get you started:
 - 🛠️ Tools & Technologies
 - 💻 Languages: Python, R
 - 🔧 Tools: Git, GitHub, VS Code, RStudio
+
+- 📂 Projects
+
+-🔹 Simple Calculator
+**Description:** A basic command-line calculator built with Python.  
+🔗 [View Code](./calculator.py)
+
+
 -->
