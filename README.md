@@ -25,5 +25,10 @@ Here are some ideas to get you started:
 **Description:** A basic command-line calculator built with Python.  
 🔗 [View Code](./calculator.py)
 
+🎯 Number Guessing Game
+[![Python](https://img.shields.io/badge/language-Python-blue.svg)](https://www.python.org/)
+A Python command-line game where players guess a number between 1 and 100. Includes score tracking, input validation, and replay functionality.
+
+🔗 [View on GitHub](https://github.com/dmekhael24/number-guessing-game)
 
 -->
